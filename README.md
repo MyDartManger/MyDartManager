@@ -26,7 +26,7 @@
 
 ### 🔧 Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" style="padding-right:10px;" />][android] Android Studio
+[<img align="left" alt="Android Studio" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" style="padding-right:10px;" />][android] Android Studio
 
 <br />
 <br />
