@@ -30,9 +30,9 @@
 
 - [<img align="left" alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original-wordmark.svg" style="padding-right:10px;" />][androids] Android Studio
 
-- [<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />](https://firebase.google.com/) Firebase
+- [<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/) Firebase
 
-- [<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original-wordmark.svg" style="padding-right:10px;" />](https://kotlinlang.org/) Kotlin
+- [<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />](https://kotlinlang.org/) Kotlin
 
 <br />
 <br />
