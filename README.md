@@ -19,7 +19,7 @@
 
 ### Connect with us:
 
-[<img align="left" alt="Discord" width="40px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:10px;" />][discord]
+[<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:10px;" />][discord]
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
