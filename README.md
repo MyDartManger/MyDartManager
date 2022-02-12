@@ -29,6 +29,8 @@
 ### 🔧 Tools and Skills:
 
 - [<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" style="padding-right:10px;" />][androids] Android Studio
+- [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />](https://firebase.google.com/) Firebase
+- [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original-wordmark.svg" style="padding-right:10px;" />](https://kotlinlang.org/) Kotlin
 
 <br />
 <br />
