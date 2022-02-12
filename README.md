@@ -21,7 +21,7 @@
 
 ### ✉️ Connect with us:
 
-- [<img align="left" alt="Discord" width="60px" src="https://www.pinclipart.com/picdir/middle/77-770378_stream-clip-art.png" style="padding-right:15px;" />][discord] Discord
+- [<img align="left" alt="Discord" width="30px" src="https://wallpapercave.com/wp/wp8761746.jpg" style="padding-right:15px;" />][discord] Discord
 
 - [<img align="left" alt="Support" width="30px" src="https://i7.pngguru.com/preview/947/916/900/email-computer-icons-symbol-mail-icon.jpg" />][Support] E-Mail
 
