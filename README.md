@@ -28,7 +28,7 @@
 
 ### 🔧 Tools and Skills:
 
-- [<img align="left" alt="Android Studio" width="30px" src="https://img.search.brave.com/GDx7HEyJrfT6Rmi0qraIekCg77sTJ3NxTILLoA_t-5s/rs:fit:880:990:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL21p/ZGRsZS81NDItNTQy/MjkzOF9lbWJhcnJh/c3NtZW50LWNsaXBh/cnQucG5n" style="padding-right:10px;" />][androids] Android Studio
+- [<img align="left" alt="Android Studio" width="30px" src="https://www.pinclipart.com/picdir/middle/542-5422938_embarrassment-clipart.png" style="padding-right:10px;" />][androids] Android Studio
 
 - [<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />](https://firebase.google.com/) Firebase
 
