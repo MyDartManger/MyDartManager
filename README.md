@@ -8,20 +8,20 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## 📌 The Project!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🎯 Dartnews
+- 👯 Tips and Tricks
+- 👑 Dartcounter with bot to play alone
+- 📲 Android App with smooth UI
+- 🎓 Login feature for saving your stats/progress
+- 🔦 Completly open source
 
-### Connect with us:
+### 📧 Connect with us:
 
 [<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:15px;" />][discord]
 &nbsp;&nbsp;
-[<img align="left" alt="Support" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/600px-Mail_%28iOS%29.svg.png?20141024222707" />][Support]
+[<img align="left" alt="Support" width="30px" src="https://img.search.brave.com/Muit0pHeeVIhovJQFD1y34FHxxnQgaEcJcgbGDC86UQ/rs:fit:880:720:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL21p/ZGRsZS80NDctNDQ3/Nzg3NV9tYWlsLXN2/Zy1pY29uLXJvdW5k/LWdtYWlsLWxvZ28t/cG5nLWNsaXBhcnQu/cG5n" />][Support]
 
 
 ### 🔧 Tools:
@@ -32,6 +32,8 @@
 <br />
 
 ---
+### 💡 Stats
+
   <img align="left" alt="Our Statistics" src="https://github-readme-stats.vercel.app/api?username=MyDartManager&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [discord]: https://discord.gg/YRk4PDw73P
