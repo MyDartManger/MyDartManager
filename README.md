@@ -40,7 +40,7 @@
 ---
 ### 💡 Stats
 
-[<img align="left" alt="Kotlin" width="350px" src="https://discord.com/widget?id=933793905344933979&theme=dark" style="padding-right:10px;" />]
+[![Discord](https://discord.com/widget?id=933793905344933979&theme=dark)][discord]
 
 <br />
 <br />
