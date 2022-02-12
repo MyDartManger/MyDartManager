@@ -40,7 +40,7 @@
 ---
 ### 💡 Stats
 
-[![Discord](https://discord.com/widget?id=933793905344933979&theme=dark)][discord]
+![Discord Shield](https://discord.com/widget?id=933793905344933979&theme=dar)
 
 <br />
 <br />
