@@ -45,11 +45,7 @@ Coming Soon...
 [discord]: http://discord.mydartmanager.de/
 [course]: http://vsCodeHero.com
 [Support]: mailto:support@mydartmanager.de
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [playstore]: dddd
 [androids]: https://developer.android.com/studio/
 [android]: https://www.android.com/intl/de_de/
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [website]: dddd
