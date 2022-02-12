@@ -42,6 +42,11 @@
 
 Coming Soon...
 
+<br />
+<br />
+
+---
+### ✒️ Your MyDartManager-Team
 [discord]: http://discord.mydartmanager.de/
 [course]: http://vsCodeHero.com
 [Support]: mailto:support@mydartmanager.de
