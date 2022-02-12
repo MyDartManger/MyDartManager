@@ -21,9 +21,9 @@
 
 ### ✉️ Connect with us:
 
--[<img align="left" alt="Discord" width="60px" src="https://i.pinimg.com/originals/cd/3a/e3/cd3ae306e607763e3ba2eb9edf7df241.jpg" style="padding-right:15px;" />] [discord]
+- [<img align="left" alt="Discord" width="60px" src="https://i.pinimg.com/originals/cd/3a/e3/cd3ae306e607763e3ba2eb9edf7df241.jpg" style="padding-right:15px;" />] [discord]
 
--[<img align="left" alt="Support" width="30px" src="https://i7.pngguru.com/preview/947/916/900/email-computer-icons-symbol-mail-icon.jpg" />] [Support]
+- [<img align="left" alt="Support" width="30px" src="https://i7.pngguru.com/preview/947/916/900/email-computer-icons-symbol-mail-icon.jpg" />] [Support]
 
 
 ### 🔧 Tools and Skills:
