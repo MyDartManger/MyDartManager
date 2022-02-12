@@ -3,6 +3,8 @@
 [![Playstore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)][playstore]
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)][android]
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/de/home)
+<br />
+<br />
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)][discord]
 [![OpenSource](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](Coming...)
 
