@@ -40,7 +40,7 @@
 ---
 ### 💡 Stats
 
-![Discord Banner 4](https://discordapp.com/api/guilds/933793905344933979/widget.png?style=banner4)
+[<img align="left" alt="Kotlin" width="350px" src="https://discord.com/widget?id=933793905344933979&theme=dark" style="padding-right:10px;" />]
 
 <br />
 <br />
