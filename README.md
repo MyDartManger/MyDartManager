@@ -20,7 +20,8 @@
 ### Connect with us:
 
 [<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:10px;" />][discord]
-[![Support](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+&nbsp;&nbsp;
+[<img align="left" alt="Support" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/600px-Mail_%28iOS%29.svg.png?20141024222707" style="padding-right:10px;" />][Mail][Support]
 
 
 ### 🔧 Tools:
