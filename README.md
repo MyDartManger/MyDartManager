@@ -23,7 +23,7 @@
 
 [<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:15px;" />][discord]
 &nbsp;&nbsp;
-[<img align="left" alt="Support" width="30px" src="https://www.pngfind.com/pngs/m/243-2439504_customer-support-icon-technical-support-hd-png-download.png" />][Support]
+[<img align="left" alt="Support" width="30px" src="https://image.pngaaa.com/893/281893-middle.png" />][Support]
 
 
 ### 🔧 Tools and Skills:
