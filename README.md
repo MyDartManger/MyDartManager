@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:15px;" />][discord]
 &nbsp;&nbsp;
-[<img align="left" alt="Support" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/600px-Mail_%28iOS%29.svg.png?20141024222707" style="marging-bottom:5px;" />][Support]
+[<img align="left" alt="Support" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/600px-Mail_%28iOS%29.svg.png?20141024222707" style="position: bottom: 20px; right: 150px" />][Support]
 
 
 ### 🔧 Tools:
