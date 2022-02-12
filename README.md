@@ -40,7 +40,7 @@
 ---
 ### 💡 Stats
 
-![Discord Banner 3](https://discordapp.com/api/guilds/[933793905344933979]/widget.png?style=banner3)
+![Discord Banner 3](https://discordapp.com/api/guilds/933793905344933979/widget.png?style=banner3)
 
 
 <br />
