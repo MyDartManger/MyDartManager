@@ -42,7 +42,7 @@
 
 Coming Soon...
 
-[discord]: https://discord.gg/YRk4PDw73P
+[discord]: http://discord.mydartmanager.de/
 [course]: http://vsCodeHero.com
 [Support]: mailto:support@mydartmanager.de
 [youtube]: https://youtube.com/codeSTACKr
