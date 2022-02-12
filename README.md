@@ -41,7 +41,6 @@
 
 [![Discord](https://discordapp.com/api/guilds/933793905344933979/widget.png?style=banner2)][discord]
 
-<br />
 
 ---
 ### ✒️ MyDartManager-Team
