@@ -19,9 +19,7 @@
 - 🎓 Login feature for saving your stats/progress
 - 🔦 Completly open source
 
-### ✉️ Connect with us:
-
-- [<img align="left" alt="Discord" width="30px" src="https://wallpapercave.com/wp/wp8761746.jpg" style="padding-right:15px;" />][discord] Discord
+### ✉️ Issues:
 
 - [<img align="left" alt="Support" width="30px" src="https://logodix.com/logo/611018.jpg" />][Support] E-Mail
 
@@ -38,7 +36,7 @@
 <br />
 
 ---
-### 💡 Stats
+### 📞 Discord
 
 [![Discord](https://discordapp.com/api/guilds/933793905344933979/widget.png?style=banner4)][discord]
 
