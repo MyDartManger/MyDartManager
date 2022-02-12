@@ -40,9 +40,7 @@
 ---
 ### 💡 Stats
 
-<p>
-<iframe src="https://discord.com/widget?id=933793905344933979&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</p>
+![Discord Banner 3](https://discordapp.com/api/guilds/[933793905344933979]/widget.png?style=banner3)
 
 
 <br />
