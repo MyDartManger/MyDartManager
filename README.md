@@ -40,8 +40,7 @@
 ---
 ### 💡 Stats
 
-<img align="left" alt="MyDartManager Github-Stats" src="https://github-readme-stats.vercel.app/api?username=mydartmanager&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-Coming Soon...
+![Discord Banner 4](https://discordapp.com/api/guilds/[933793905344933979]/widget.png?style=banner4)
 
 <br />
 <br />
