@@ -2,7 +2,7 @@
 
 [![Playstore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)][playstore]
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)][android]
-[![Discord](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/de/home)
+[![Discord](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)][discord]
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/de/home)
 
 
@@ -33,8 +33,7 @@
 ---
 ### 💡 Stats
 
-[![Downloads](https://img.shields.io/github/downloads/MyDartManager/Application/total.svg)]
-[![Follower](https://img.shields.io/github/downloads/MyDartManager/Application/total.svg))
+Cooming Soon...
 
 [discord]: https://discord.gg/YRk4PDw73P
 [course]: http://vsCodeHero.com
@@ -46,3 +45,4 @@
 [android]: https://www.android.com/intl/de_de/
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: dddd
