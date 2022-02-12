@@ -5,6 +5,7 @@
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/de/home)
 <br />
 <br />
+
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)][discord]
 [![OpenSource](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](Coming...)
 
