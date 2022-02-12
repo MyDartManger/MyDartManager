@@ -21,9 +21,9 @@
 
 ### ✉️ Connect with us:
 
-[<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:15px;" />][discord]
-&nbsp;&nbsp;
-[<img align="left" alt="Support" width="30px" src="https://i7.pngguru.com/preview/947/916/900/email-computer-icons-symbol-mail-icon.jpg" />][Support]
+-[<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:15px;" />]Discord[discord]
+
+-[<img align="left" alt="Support" width="30px" src="https://i7.pngguru.com/preview/947/916/900/email-computer-icons-symbol-mail-icon.jpg" />]E-Mail[Support]
 
 
 ### 🔧 Tools and Skills:
