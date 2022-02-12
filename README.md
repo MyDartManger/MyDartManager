@@ -19,7 +19,7 @@
 
 ### Connect with us:
 
-[![discord](https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo.wine.svg)](https://discord.gg/YRk4PDw73P)
+[![discord](https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg)](https://discord.gg/YRk4PDw73P)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
