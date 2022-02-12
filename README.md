@@ -21,8 +21,8 @@
 
 [<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:10px;" />][discord]
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![Support](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/240px-Mail_%28iOS%29.svg.png)](https://youtube.com/codestackr#gh-light-mode-only)
+
 
 ### 🔧 Tools:
 
@@ -36,7 +36,7 @@
 
 [discord]: https://discord.gg/YRk4PDw73P
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[Support]: mailto:support@mydartmanager.de
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
