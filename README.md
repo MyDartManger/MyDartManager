@@ -23,7 +23,7 @@
 
 [<img align="left" alt="Discord" width="60px" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Logo.wine.svg" style="padding-right:15px;" />][discord]
 &nbsp;&nbsp;
-[<img align="left" alt="Support" width="30px" src="https://img.search.brave.com/Muit0pHeeVIhovJQFD1y34FHxxnQgaEcJcgbGDC86UQ/rs:fit:880:720:1/g:ce/aHR0cHM6Ly93d3cu/cGluY2xpcGFydC5j/b20vcGljZGlyL21p/ZGRsZS80NDctNDQ3/Nzg3NV9tYWlsLXN2/Zy1pY29uLXJvdW5k/LWdtYWlsLWxvZ28t/cG5nLWNsaXBhcnQu/cG5n" />][Support]
+[<img align="left" alt="Support" width="30px" src="https://pngmind.com/wp-content/uploads/2019/08/Email-Logo-No-Background.jpg" />][Support]
 
 
 ### 🔧 Tools and Skills:
@@ -40,7 +40,7 @@
 ---
 ### 💡 Stats
 
-Cooming Soon...
+Coming Soon...
 
 [discord]: https://discord.gg/YRk4PDw73P
 [course]: http://vsCodeHero.com
