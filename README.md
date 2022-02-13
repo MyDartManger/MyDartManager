@@ -6,7 +6,7 @@
 <br />
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)][discord]
-[![OpenSource](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](Coming...)
+[![OpenSource](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)][master]
 
 
 
