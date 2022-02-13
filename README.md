@@ -23,11 +23,13 @@
 
 - [<img align="left" alt="Support" width="30px" src="https://media.discordapp.net/attachments/942420781948862545/942423412909957120/outline_mail_black_24dp.png" style="padding-right:10px;" />][Support] E-Mail
 
+- [<img align="left" alt="Support" width="30px" src="https://cdn.discordapp.com/attachments/942420781948862545/942424748871262249/outline_campaign_black_24dp.png" style="padding-right:10px;" />][Issues] Github-Issues
+
 <br />
 
 ### 🔧 Tools and Skills:
 
-- [<img align="left" alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-plain.svg" style="padding-right:10px;" />][androids] Android Studio
+- [<img align="left" alt="Android Studio" width="30px" src="https://cdn.discordapp.com/attachments/942420781948862545/942425871304753173/android.png" style="padding-right:10px;" />][androids] Android Studio
 
 - [<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/) Firebase
 
@@ -54,3 +56,4 @@ Coming soon...
 [androids]: https://developer.android.com/studio/
 [android]: https://www.android.com/intl/de_de/
 [website]: dddd
+[Issues]: https://github.com/MyDartManger/MyDartManager/issues
