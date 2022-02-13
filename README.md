@@ -37,9 +37,8 @@
 
 <br />
 
-### 📱 App-Progress
+### 📱 [App-Progress][master]
 
-Coming soon...
 
 ---
 ### 📞 Discord
@@ -57,3 +56,4 @@ Coming soon...
 [android]: https://www.android.com/intl/de_de/
 [website]: dddd
 [Issues]: https://github.com/MyDartManger/MyDartManager/issues
+[master]: https://github.com/MyDartManger/MyDartManager/tree/master
