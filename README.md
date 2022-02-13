@@ -21,7 +21,7 @@
 
 ### ✉️ Issues:
 
-- [<img align="left" alt="Support" width="40px" src="https://cdn.discordapp.com/attachments/942420781948862545/942422352606666802/outline_mail_black_24dp.png" style="padding-right:10px;" />][Support] E-Mail
+- [<img align="left" alt="Support" width="30px" src="https://media.discordapp.net/attachments/942420781948862545/942423412909957120/outline_mail_black_24dp.png" style="padding-right:10px;" />][Support] E-Mail
 
 <br />
 
