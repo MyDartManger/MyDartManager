@@ -21,7 +21,7 @@
 
 ### ✉️ Issues:
 
-- [<img align="left" alt="Support" width="30px" src="https://media.discordapp.net/attachments/942420781948862545/942423412909957120/outline_mail_black_24dp.png" style="padding-right:10px;" />][Support] E-Mail
+- [<img align="left" alt="Support" width="30px" src="https://cdn.discordapp.com/attachments/822527756150505493/951871619792523304/new-mail.png" style="padding-right:10px;" />][Support] E-Mail
 
 - [<img align="left" alt="Support" width="30px" src="https://cdn.discordapp.com/attachments/942420781948862545/942424748871262249/outline_campaign_black_24dp.png" style="padding-right:10px;" />][Issues] Github-Issues
 
