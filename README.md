@@ -49,7 +49,7 @@
 ---
 ### 📊 Stats
 
-![MyDartManager's GitHub stats](https://github-readme-stats.vercel.app/api?username=mydartmanager&theme=midnight-purple&show_icons=true)
+![MyDartManager's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyDartManager&theme=midnight-purple&show_icons=true)
 
 ---
 ### ✒️ MyDartManager-Team
